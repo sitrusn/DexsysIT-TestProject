@@ -1,0 +1,30 @@
+
+N
+squid:S106("9Replace this use of System.out or System.err by a logger.(ğÕë.
+Esquid:S1481")Remove this unused "keys" local variable.(–áˆÒúÿÿÿÿ
+Usquid:S1854"9Remove this useless assignment to local variable "print".(ÖÛ¢îùÿÿÿÿ
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Ğöõœüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦ş˜üÿÿÿÿ
+Psquid:S1854"9Remove this useless assignment to local variable "clear".(¸É†
+Psquid:S1854$"9Remove this useless assignment to local variable "merge".(€àíµ
+O
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ºŠ®¡
+g
+squid:S128,"LEnd this switch case with an unconditional break, return or throw statement.(«³şÿÿÿÿ
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(—·æşşÿÿÿÿ
+gsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(»‡“‡üÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(şşì÷şÿÿÿÿ
+Tsquid:S1854"8Remove this useless assignment to local variable "keys".(–áˆÒúÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¨÷–
+O
+squid:S106	"9Replace this use of System.out or System.err by a logger.(€öÎÚ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜ÈøÒ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(±Ãƒù
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ò¨ı„
+Rsquid:S1854";Remove this useless assignment to local variable "anyMore".(›¶ßÅ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øìÈºÿÿÿÿÿ
